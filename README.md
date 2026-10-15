@@ -25,4 +25,3 @@ This project analyzes sales data to identify revenue trends, product performance
 ## Deliverables
 The project includes the cleaned data, analysis notebook, SQL queries, and Excel dashboard.
 
-*Note: Findings should be verified against the final cleaned dataset before submission.*
